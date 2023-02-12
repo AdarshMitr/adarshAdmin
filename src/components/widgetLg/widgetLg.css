@@ -1,0 +1,5 @@
+.widgetLg{
+    flex: 2;
+    -webkit-box-shadow: 1px 0px 28px 19px #F5F5F5; 
+    box-shadow: 1px 0px 28px 19px #F5F5F5;
+}
